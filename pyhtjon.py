@@ -59,4 +59,4 @@ if __name__ == "__main__":
     main()
 
 
-srever_name mynameisamerica.com;
+srever_name https://mynameisamerica.com;
