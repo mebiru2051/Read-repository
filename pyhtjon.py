@@ -59,4 +59,7 @@ if __name__ == "__main__":
     main()
 
 
-srever_name https://mynameisamerica.com;
+srever_name mynameisamerica.com xyzabc.com omygodness.cat.com merobazzar.tero.cloud;
+server_name jshgdnnd.jahhd.ai jjshyehhjf.cloud jhcbevgsgge.hdbvgd.com
+server_name jhdggdbhjj.com
+server_name whatisthis.ai whyisthis.cloud
